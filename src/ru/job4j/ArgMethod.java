@@ -1,4 +1,4 @@
-package ru.job4j.ru.job4j;
+package ru.job4j;
 
 public class ArgMethod {
     public static void hello(String name) {
@@ -18,3 +18,4 @@ public class ArgMethod {
         ArgMethod.hello(name);
     }
 }
+
